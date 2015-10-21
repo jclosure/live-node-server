@@ -2,6 +2,13 @@
   "devDependencies": {
     "async": "^1.4.2",
     "babel": "^5.8.23",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.2",
     "mocha": "^2.3.3",
     "nodemon": "^1.7.3"
   },

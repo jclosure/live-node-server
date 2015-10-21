@@ -1,9 +1,23 @@
 
 * Live Node Server Running On Babel Transpiler
 
+This application is my starter base for development of node web apps.
+It has only the cored out essentials for doing live server reload and
+live server refresh along with automatic ES6 transpilation with sourcemaps. 
+
 ** Derived from:
 
+*** nodemon setup:
+
 https://github.com/babel/example-node-server
+
+*** gulp-livereload setup:
+
+https://travismaynard.com/writing/getting-started-with-gulp
+
+*** live-reload chrome app:
+
+https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en
 
 ** Starting with Live Nodemon
 
