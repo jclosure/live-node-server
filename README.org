@@ -1,0 +1,22 @@
+
+* Live Node Server Running On Babel Transpiler
+
+** Derived from:
+
+https://github.com/babel/example-node-server
+
+** Starting with Live Nodemon
+
+npm start
+
+** Building
+
+npm run build
+
+** Production Serving
+
+npm run serve
+
+** Testing with Mocha
+
+npm test

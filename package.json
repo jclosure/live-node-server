@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "async": "^1.4.2",
+    "babel": "^5.8.23",
+    "mocha": "^2.3.3",
+    "nodemon": "^1.7.3"
+  },
+  "scripts": {
+    "start": "nodemon lib/index.js --exec babel-node",
+    "build": "babel lib -d dist",
+    "serve": "node dist/index.js",
+    "test": "mocha --compilers js:babel/register"
+  }
+}
