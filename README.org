@@ -34,3 +34,6 @@ npm run serve
 ** Testing with Mocha
 
 npm test
+*** babelfy setup
+
+https://gist.github.com/danharper/3ca2273125f500429945
